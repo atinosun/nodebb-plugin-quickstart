@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-quickstart",
-	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"id": "nodebb-plugin-ccmtquickstart",
+	"url": "https://github.com/phyer/nodebb-plugin-quickstart",
 	"library": "./library.js",
 	"hooks": [
 		{

@@ -12,7 +12,7 @@ $(document).ready(function() {
 		$(document).ready();			Fired when the DOM is ready
 		$(window).on('action:ajaxify.end', function(data) { ... });			"data" contains "url"
 	*/
-
+	//console.log("meta.settings.get('quickstart'):",meta.settings.get('quickstart'));
 	console.log('nodebb-plugin-quickstart: loaded');
 	// Note how this is shown in the console on the first load of every page
 });
